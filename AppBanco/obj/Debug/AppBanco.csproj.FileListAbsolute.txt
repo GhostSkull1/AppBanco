@@ -1,0 +1,8 @@
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\bin\Debug\AppBanco.exe.config
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\bin\Debug\AppBanco.exe
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\bin\Debug\AppBanco.pdb
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.AssemblyReference.cache
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\obj\Debug\AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\obj\Debug\AppBanco.exe
+C:\Users\jackl\OneDrive\Documentos\Visual Studio\AppBanco\AppBanco\obj\Debug\AppBanco.pdb
